@@ -1,1 +1,2 @@
-# Shooter
+# Unreal 5 online multiplayer shooting game
+Work in progress...
